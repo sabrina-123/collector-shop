@@ -8,7 +8,6 @@ Le projet est composé de deux applications :
 - `frontend/` : interface React + Vite, catalogue filtrable, comptes acheteur/vendeur, publication d'objets et messagerie.
 
 ## Prérequis
-
 - Windows PowerShell
 - Python 3.10 ou supérieur
 - Node.js et npm
@@ -331,5 +330,6 @@ Avant toute mise en ligne :
 - Remplacer le paiement simulé par un paiement signé côté serveur.
 - Configurer les emails et la réinitialisation de mot de passe.
 - Ajouter sauvegardes, logs et monitoring.
-#   c o l l e c t o r - s h o p  
+#   c o l l e c t o r - s h o p 
+ 
  
